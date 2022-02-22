@@ -1,0 +1,33 @@
+.logo {
+  text-align: center;
+}
+.logo img {
+  max-width: 100%;
+}
+.search {
+  background-color: #ddd;
+  text-align: center;
+  padding: 10px;
+}
+
+.search input[type="search"] {
+  width: 400px;
+  max-width: 90%;
+}
+.search .buttons {
+  margin-top: 5px;
+}
+
+.footer {
+  background-color: turquoise;
+  display: flex;
+}
+.footer > div {
+  flex: 1;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #fff;
+}
+.copyright {
+  text-align: center;
+}
